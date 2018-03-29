@@ -2,9 +2,7 @@
 Problem description:
 
 In this we will use the movie ratings collected from everyone
-in the class to build a ratings predictor. For the purposes of this assignment the ratings
-of the following four movies have been removed: A Fantastic Woman, Loveless, The
-Insult, The Square.
+in the class to build a ratings predictor.
 
 Training set: Use the data in train.csv to train the recommendation/ratings system. It is
 the same as the data collected as part of Movie Night survey with 1) the email
